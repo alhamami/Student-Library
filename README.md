@@ -56,5 +56,8 @@ the project is still under development.
 ## Another representation of our program is:
 - [Waseet](https://aboutcourse.net), it is another representation of our 
 program, and from here was the launch of our idea.
-
  
+<p align="center">
+     <img src="https://i.imgur.com/1OPATfc.png"/>
+     <img src="https://i.imgur.com/XqZfHM5.png"/>
+</p>
