@@ -34,8 +34,7 @@ user name and password are correct.
 
 ## How complete the project is?
 
-### The project is still under development, and in the future it is 
-expected that the project will be able to:
+### The project is still under development, and in the future it is expected that the project will be able to:
 - Linking the registration automatically to a database, 
 since currently, after completing the registration 
 process, a document appears for the student on the 
